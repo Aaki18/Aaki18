@@ -182,27 +182,13 @@ Focus:
 
 ---
 
-## GITHUB STATS
-
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaki18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaki18&layout=compact&theme=tokyonight&hide_border=true" />
+## ANALYTICS DASHBOARD
 
 <br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Aaki18&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaki18&theme=tokyo-night&hide_border=true" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
 </div>
 
