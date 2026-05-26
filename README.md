@@ -186,8 +186,6 @@ Focus:
 
 ## ANALYTICS DASHBOARD
 
-<br><br>
-
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
 </div>
