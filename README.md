@@ -14,7 +14,7 @@ Building intelligent systems, scalable cloud platforms, and AI-driven automation
 
 <div align="center">
 
-## ◈ SYSTEM OVERVIEW
+## SYSTEM OVERVIEW
 
 </div>
 
@@ -50,8 +50,8 @@ Building scalable intelligent systems
 
 > learning
 - DevOps & CI/CD
-- Agentic AI & LLM Pipelines
 - Cloud Architecture (AWS)
+- Advanced ML & Deep Learning
 
 > mission
 Ship production-ready AI systems
@@ -66,7 +66,7 @@ Ship production-ready AI systems
 
 <div align="center">
 
-## ◈ EXPERIENCE PANEL
+## EXPERIENCE PANEL
 
 </div>
 
@@ -120,7 +120,7 @@ Focus:
 
 <div align="center">
 
-## ◈ RESEARCH PUBLICATIONS
+## RESEARCH PUBLICATIONS
 
 </div>
 
@@ -129,10 +129,10 @@ Focus:
 <tr>
 <td width="50%">
 
-### 📄 Dynamic Pricing System
+### Dynamic Pricing System
 ```yaml
 Publisher: IRO
-Status: Published ✅
+Status: Published
 Domain: Machine Learning | Economics AI
 About:
   - ML-driven real-time pricing engine
@@ -143,10 +143,10 @@ About:
 </td>
 <td width="50%">
 
-### 📄 Hospital 360 Management
+### Hospital 360 Management
 ```yaml
 Publisher: IRO
-Status: Published ✅
+Status: Published
 Domain: Healthcare AI | Systems Design
 About:
   - Full hospital operations AI platform
@@ -163,7 +163,7 @@ About:
 
 <div align="center">
 
-## ◈ PROJECT DASHBOARD
+## PROJECT DASHBOARD
 
 </div>
 
@@ -172,7 +172,7 @@ About:
 <tr>
 <td>
 
-### 🏥 Healthcare AI
+### Healthcare AI
 - Hospital 360 Platform `Published`
 - Diabetes Prediction
 - EV Battery Health Detection
@@ -181,7 +181,7 @@ About:
 </td>
 <td>
 
-### 📈 ML & Prediction
+### ML & Prediction
 - Dynamic Pricing System `Published`
 - Car Price Prediction
 - Stock Price Prediction
@@ -190,7 +190,7 @@ About:
 </td>
 <td>
 
-### 🤖 AI Systems
+### AI Systems
 - Illegal Mining Detection `SIH 2024`
 - Face Recognition System
 - Crisis Orchestration Engine
@@ -205,7 +205,7 @@ About:
 
 <div align="center">
 
-## ◈ TECH STACK MATRIX
+## TECH STACK MATRIX
 
 </div>
 
@@ -220,7 +220,7 @@ About:
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 
-### AI / Data
+### AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 ### Databases & Tools
@@ -232,7 +232,7 @@ About:
 
 <div align="center">
 
-## ◈ ANALYTICS DASHBOARD
+## ANALYTICS DASHBOARD
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaki18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaki18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&langs_count=6&border_radius=10" />
@@ -251,7 +251,7 @@ About:
 
 <div align="center">
 
-## ◈ ACHIEVEMENTS
+## ACHIEVEMENTS
 
 </div>
 
@@ -260,7 +260,7 @@ About:
 <tr>
 <td>
 
-### 🏆 Highlights
+### Highlights
 ```yaml
 Research:
   - 2x Published Author @ IRO
@@ -281,18 +281,18 @@ Academics:
 </td>
 <td>
 
-### 🎯 Current Goals
+### Targets
 ```yaml
-2025 Targets:
-  → 3rd Research Paper
+2025:
   → AWS Cloud Certification
-  → Deploy 2 Production AI Apps
-  → Contribute to Open Source
+  → Deploy Production ML Models
+  → 3rd Research Paper
+  → Open Source Contributions
 
 Long Term:
   → AI Research Engineer
-  → Build AI SaaS Products
-  → Lead ML Teams
+  → Build AI + Cloud Products
+  → Lead ML Engineering Teams
 ```
 
 </td>
@@ -304,7 +304,7 @@ Long Term:
 
 <div align="center">
 
-## ◈ SYSTEM GOAL
+## SYSTEM GOAL
 
 </div>
 
@@ -312,10 +312,10 @@ Long Term:
 
 ```python
 while True:
-    research()   # 📄 Publish papers & explore new ideas
-    build()      # 🛠️  Ship real-world AI products
-    deploy()     # 🚀 Scale to production
-    improve()    # 📈 Never stop leveling up
+    research()   # publish papers, explore ML & cloud
+    build()      # ship real-world AI systems
+    deploy()     # scale to production on cloud
+    improve()    # never stop leveling up
 ```
 
 </div>
@@ -324,7 +324,7 @@ while True:
 
 <div align="center">
 
-## ◈ CONNECT PANEL
+## CONNECT PANEL
 
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
@@ -341,7 +341,5 @@ while True:
 ---
 
 <div align="center">
-
-Built with AI mindset • Powered by curiosity • Shipped with purpose 🚀
-
+Built with AI and Cloud mindset
 </div>
