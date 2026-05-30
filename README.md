@@ -1,12 +1,14 @@
 <div align="center">
 
 # Aakash Lingam M
-### AI Engineer • ML Researcher • Full Stack Developer • Cloud Enthusiast
-Building intelligent systems, scalable cloud platforms, and AI-driven automation solutions.
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;ML+Researcher+%7C+2x+Published+Author;Cloud+Developer;Full+Stack+Builder;Machine+Learning+Practitioner;Automation+Systems+Thinker" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aaki18&color=00E5FF&style=flat-square&label=Profile+Views)](https://github.com/Aaki18)
+### AI Engineer • Cloud Computing Enthusiast • Full Stack Developer
+
+Building intelligent systems, scalable cloud platforms, and AI-driven automation solutions.
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Cloud+Developer;Full+Stack+Builder;Machine+Learning+Practitioner;Automation+Systems+Thinker" />
 
 </div>
 
@@ -19,6 +21,7 @@ Building intelligent systems, scalable cloud platforms, and AI-driven automation
 </div>
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%">
@@ -29,10 +32,7 @@ Building intelligent systems, scalable cloud platforms, and AI-driven automation
 Aakash Lingam M
 
 > role
-AI Engineer | ML Researcher | Full Stack Dev
-
-> location
-Trichy, Tamil Nadu, India
+AI + Cloud + Full Stack Developer
 
 > focus
 Building scalable intelligent systems
@@ -43,15 +43,11 @@ Building scalable intelligent systems
 
 ### CURRENT STATE
 ```bash
-> research
-- Published @ IRO (x2 Papers)
-  - Dynamic Pricing System
-  - Hospital 360 Management
-
 > learning
-- DevOps & CI/CD
-- Cloud Architecture (AWS)
-- Advanced ML & Deep Learning
+- DevOps
+- CI/CD
+- Agentic AI
+- Cloud Architecture
 
 > mission
 Ship production-ready AI systems
@@ -60,6 +56,7 @@ Ship production-ready AI systems
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -71,27 +68,14 @@ Ship production-ready AI systems
 </div>
 
 <div align="center">
+
 <table>
 <tr>
 <td>
 
-### Divihn
-```yaml
-Role: ServiceNow AI Intern
-Period: 2025 (Current)
-Focus:
-  - Enterprise AI Automation
-  - Workflow Orchestration
-  - Agentic System Design
-```
-
-</td>
-<td>
-
 ### Techzarinfo
 ```yaml
-Role: React.js Dev Intern
-Period: Jun–Jul 2025
+Role: React.js Intern
 Focus:
   - UI Development
   - Component Architecture
@@ -104,59 +88,28 @@ Focus:
 ### InternPe
 ```yaml
 Role: AI/ML Intern
-Period: Jan–Feb 2025
 Focus:
-  - ML Models & Pipelines
+  - ML Models
   - Data Processing
   - Predictive Systems
 ```
 
 </td>
-</tr>
-</table>
-</div>
+<td>
 
----
-
-<div align="center">
-
-## RESEARCH PUBLICATIONS
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### Dynamic Pricing System
+### Divihn
 ```yaml
-Publisher: IRO
-Status: Published
-Domain: Machine Learning | Economics AI
-About:
-  - ML-driven real-time pricing engine
-  - Demand signal processing & prediction
-  - Adaptive pricing model at scale
-```
-
-</td>
-<td width="50%">
-
-### Hospital 360 Management
-```yaml
-Publisher: IRO
-Status: Published
-Domain: Healthcare AI | Systems Design
-About:
-  - Full hospital operations AI platform
-  - Patient management & diagnostics
-  - Integrated analytics & automation
+Role: ServiceNow AI Intern
+Focus:
+  - Enterprise AI
+  - Automation Systems
+  - Workflow Design
 ```
 
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -168,12 +121,13 @@ About:
 </div>
 
 <div align="center">
+
 <table>
 <tr>
 <td>
 
 ### Healthcare AI
-- Hospital 360 Platform `Published`
+- Hospital 360 Platform
 - Diabetes Prediction
 - EV Battery Health Detection
 - E-Tongue Herb Detection
@@ -182,7 +136,7 @@ About:
 <td>
 
 ### ML & Prediction
-- Dynamic Pricing System `Published`
+- Dynamic Pricing System
 - Car Price Prediction
 - Stock Price Prediction
 - IPL Score Prediction
@@ -190,8 +144,8 @@ About:
 </td>
 <td>
 
-### AI Systems
-- Illegal Mining Detection `SIH 2024`
+### AI SYSTEMS
+- Illegal Mining Detection
 - Face Recognition System
 - Crisis Orchestration Engine
 - AI Learning Tracker
@@ -199,6 +153,7 @@ About:
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -212,19 +167,16 @@ About:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,c" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,flask,nodejs,sklearn" />
+### Frameworks
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs" />
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
 
-### AI / ML
+### AI / Data
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,postman" />
 
 </div>
 
@@ -234,70 +186,8 @@ About:
 
 ## ANALYTICS DASHBOARD
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaki18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaki18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&langs_count=6&border_radius=10" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Aaki18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aaki18&theme=tokyo-night&bg_color=0d1117&color=00E5FF&line=00E5FF&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## ACHIEVEMENTS
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-### Highlights
-```yaml
-Research:
-  - 2x Published Author @ IRO
-
-Hackathons:
-  - SIH 2024 → Cleared College Round
-  - Smart Innovators Hackathon
-    @ JJ College of Engineering
-
-Certifications:
-  - HDCA (Honours Diploma, CSC)
-
-Academics:
-  - HSC: 85%
-  - B.Tech AI & DS @ SCE (Pursuing)
-```
-
-</td>
-<td>
-
-### Targets
-```yaml
-2025:
-  → AWS Cloud Certification
-  → Deploy Production ML Models
-  → 3rd Research Paper
-  → Open Source Contributions
-
-Long Term:
-  → AI Research Engineer
-  → Build AI + Cloud Products
-  → Lead ML Engineering Teams
-```
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -306,16 +196,12 @@ Long Term:
 
 ## SYSTEM GOAL
 
-</div>
-
-<div align="center">
-
 ```python
 while True:
-    research()   # publish papers, explore ML & cloud
-    build()      # ship real-world AI systems
-    deploy()     # scale to production on cloud
-    improve()    # never stop leveling up
+    learn()
+    build()
+    deploy()
+    improve()
 ```
 
 </div>
@@ -329,9 +215,11 @@ while True:
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
 <a href="mailto:aakashlingam2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
+
 <a href="https://github.com/Aaki18">
 <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
@@ -341,5 +229,7 @@ while True:
 ---
 
 <div align="center">
-Built with AI and Cloud mindset
+
+Built with AI and Cloud mindset 
+
 </div>
