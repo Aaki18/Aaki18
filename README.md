@@ -6,13 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=4ADE80&center=true&vCenter=true&width=800&lines=%24+git+commit+-m+%22ship+it%22;%24+docker+build+-t+aakash%2Fportfolio+.;%24+python+train_model.py+--epochs+100;%24+kubectl+apply+-f+deployment.yaml" />
 
-</div>
-
 ---
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ```
 $ cat about.txt
@@ -28,7 +26,7 @@ AI-driven automation solutions.
 ```
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ```
 $ cat learning.txt
@@ -54,9 +52,9 @@ Ship production-ready AI systems
 $ ls -la experience/
 ```
 
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
 ```
 techzarinfo/
@@ -69,7 +67,7 @@ role: React.js Intern
 ```
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
 ```
 internpe/
@@ -82,7 +80,7 @@ role: AI/ML Intern
 ```
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
 ```
 divihn/
@@ -104,9 +102,9 @@ role: ServiceNow AI Intern
 $ ls -la projects/
 ```
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
 ```
 healthcare_ai/
@@ -118,7 +116,7 @@ healthcare_ai/
 ```
 
 </td>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
 ```
 ml_prediction/
@@ -130,7 +128,7 @@ ml_prediction/
 ```
 
 </td>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="33%">
 
 ```
 ai_systems/
@@ -147,15 +145,13 @@ ai_systems/
 
 ---
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ```
 $ ./tech_stack.sh
 ```
-
-<div align="center">
 
 **LANGUAGES**
 <br/>
@@ -173,10 +169,8 @@ $ ./tech_stack.sh
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
-</div>
-
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ```
 $ ./contribution_stats.sh
@@ -208,8 +202,6 @@ while True:
 $ contact --list
 ```
 
-<div align="center">
-
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0A0A0A"/>
 </a>
@@ -220,9 +212,11 @@ $ contact --list
 <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=4ADE80&labelColor=0A0A0A"/>
 </a>
 
-</div>
+<br/><br/>
 
 ```
 $ exit
 process finished with exit code 0
 ```
+
+</div>
