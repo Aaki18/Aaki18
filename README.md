@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/identity-banner.svg" width="100%"/>
+<img src="identity-banner.svg" width="100%"/>
 
 <br/>
 
