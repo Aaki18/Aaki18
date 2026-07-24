@@ -1,45 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,100:0A0A0A&height=180&section=header&text=CASE%20FILE%20%23AL-2006&fontSize=38&fontColor=E63946&fontAlignY=45&desc=SUBJECT%20IDENTIFICATION%20%2F%2F%20CLEARANCE%20LEVEL%3A%20DEV&descAlignY=68&descSize=15&descColor=CFCFCF&animation=fadeIn" width="100%"/>
+<img src="assets/identity-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=E63946&center=true&vCenter=true&width=800&lines=%3E+ACCESS+GRANTED...;%3E+LOADING+IDENTITY_MODULE...;%3E+USER%3A+AAKASH_LINGAM_M;%3E+STATUS%3A+ONLINE" />
+<br/>
 
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  SOURCE: VERIFIED           [UPLINK: STABLE]          ║
-║  [■ ■ ■ ■]                  [CONNECTION: ESTABLISHED] ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=E63946&center=true&vCenter=true&width=800&lines=%3E+DECRYPTING+DOSSIER...;%3E+LOADING+IDENTITY_MODULE...;%3E+CROSS-REFERENCING+RECORDS...;%3E+FILE+READY+FOR+REVIEW" />
 
 </div>
 
 ---
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 <div align="center">
 
-## `[ LOGIN: AAKASH_LINGAM_M ]`
+### `[ DOSSIER // IDENTITY ]`
 
 </div>
 
 ```
 $ ./whoami --verbose
 
-> NAME        : Aakash Lingam M
-> ROLE        : AI Engineer / Cloud Computing Enthusiast / Full Stack Developer
-> FOCUS       : Building intelligent systems, scalable cloud platforms,
-                and AI-driven automation solutions
-> STATUS      : ACCESS GRANTED ✔
+> NAME    : Aakash Lingam M
+> ROLE    : AI Engineer / Cloud
+            Computing Enthusiast /
+            Full Stack Developer
+> FOCUS   : Building intelligent
+            systems, scalable cloud
+            platforms, and AI-driven
+            automation solutions
+> STATUS  : ACCESS GRANTED ✔
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-## `[ SYSTEM // CURRENT STATE ]`
+### `[ DOSSIER // CURRENT STATE ]`
 
 </div>
 
@@ -55,6 +55,10 @@ $ ./mission --print
 
 > Ship production-ready AI systems
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -168,27 +172,25 @@ DIR: /ai_systems
 
 ---
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 <div align="center">
 
-## `[ HARDWARE // TECH STACK SCAN ]`
+### `[ HARDWARE // TECH STACK SCAN ]`
 
 **LANGUAGES**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c&theme=dark" />
 
-<br/>
-
 **FRAMEWORKS**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,flask,nodejs&theme=dark" />
 
-<br/>
-
 **CLOUD & DEVOPS**
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark" />
-
-<br/>
 
 **AI / DATA**
 <br/>
@@ -196,15 +198,20 @@ DIR: /ai_systems
 
 </div>
 
----
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-## `[ CONTRIBUTION TRACE // LIVE FEED ]`
+### `[ CONTRIBUTION TRACE // LIVE FEED ]`
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=CFCFCF&dates=808080"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=CFCFCF&dates=808080"/>
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
