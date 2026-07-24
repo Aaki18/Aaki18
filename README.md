@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=E63946&center=true&vCenter=true&width=800&lines=%3E+DECRYPTING+DOSSIER...;%3E+LOADING+IDENTITY_MODULE...;%3E+CROSS-REFERENCING+RECORDS...;%3E+FILE+READY+FOR+REVIEW" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=4ADE80&center=true&vCenter=true&width=800&lines=%24+git+commit+-m+%22ship+it%22;%24+docker+build+-t+aakash%2Fportfolio+.;%24+python+train_model.py+--epochs+100;%24+kubectl+apply+-f+deployment.yaml" />
 
 </div>
 
@@ -14,46 +14,34 @@
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### `[ DOSSIER // IDENTITY ]`
-
-</div>
+```
+$ cat about.txt
+```
 
 ```
-$ ./whoami --verbose
+AI Engineer / Cloud Computing
+Enthusiast / Full Stack Developer
 
-> NAME    : Aakash Lingam M
-> ROLE    : AI Engineer / Cloud
-            Computing Enthusiast /
-            Full Stack Developer
-> FOCUS   : Building intelligent
-            systems, scalable cloud
-            platforms, and AI-driven
-            automation solutions
-> STATUS  : ACCESS GRANTED ✔
+Building intelligent systems,
+scalable cloud platforms, and
+AI-driven automation solutions.
 ```
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### `[ DOSSIER // CURRENT STATE ]`
-
-</div>
+```
+$ cat learning.txt
+```
 
 ```
-$ ./learning --active
-
 > DevOps
 > CI/CD
 > Agentic AI
 > Cloud Architecture
 
-$ ./mission --print
-
-> Ship production-ready AI systems
+$ echo $MISSION
+Ship production-ready AI systems
 ```
 
 </td>
@@ -62,59 +50,48 @@ $ ./mission --print
 
 ---
 
-<div align="center">
-
-## `[ EXPERIENCE LOG // ENTRIES FOUND: 3 ]`
-
-</div>
+```
+$ ls -la experience/
+```
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ```
-FILE: 001_TECHZARINFO
---------------------
-ROLE: React.js Intern
+techzarinfo/
+------------
+role: React.js Intern
 
-FOCUS:
 - UI Development
 - Component Architecture
 - Responsive Design
-
-STATUS: [ CLOSED ]
 ```
 
 </td>
 <td width="33%" valign="top">
 
 ```
-FILE: 002_INTERNPE
---------------------
-ROLE: AI/ML Intern
+internpe/
+------------
+role: AI/ML Intern
 
-FOCUS:
 - ML Models
 - Data Processing
 - Predictive Systems
-
-STATUS: [ CLOSED ]
 ```
 
 </td>
 <td width="33%" valign="top">
 
 ```
-FILE: 003_DIVIHN
---------------------
-ROLE: ServiceNow AI Intern
+divihn/
+------------
+role: ServiceNow AI Intern
 
-FOCUS:
 - Enterprise AI
 - Automation Systems
 - Workflow Design
-
-STATUS: [ CLOSED ]
 ```
 
 </td>
@@ -123,19 +100,17 @@ STATUS: [ CLOSED ]
 
 ---
 
-<div align="center">
-
-## `[ PROJECT DATABASE // DECRYPTED ]`
-
-</div>
+```
+$ ls -la projects/
+```
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
 ```
-DIR: /healthcare_ai
-------------------
+healthcare_ai/
+--------------
 > Hospital 360 Platform
 > Diabetes Prediction
 > EV Battery Health Detection
@@ -146,8 +121,8 @@ DIR: /healthcare_ai
 <td valign="top" width="33%">
 
 ```
-DIR: /ml_prediction
-------------------
+ml_prediction/
+--------------
 > Dynamic Pricing System
 > Car Price Prediction
 > Stock Price Prediction
@@ -158,8 +133,8 @@ DIR: /ml_prediction
 <td valign="top" width="33%">
 
 ```
-DIR: /ai_systems
-------------------
+ai_systems/
+--------------
 > Illegal Mining Detection
 > Face Recognition System
 > Crisis Orchestration Engine
@@ -176,9 +151,11 @@ DIR: /ai_systems
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+```
+$ ./tech_stack.sh
+```
 
-### `[ HARDWARE // TECH STACK SCAN ]`
+<div align="center">
 
 **LANGUAGES**
 <br/>
@@ -201,13 +178,11 @@ DIR: /ai_systems
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+```
+$ ./contribution_stats.sh
+```
 
-### `[ CONTRIBUTION TRACE // LIVE FEED ]`
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=CFCFCF&dates=808080"/>
-
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=CFCFCF&dates=808080"/>
 
 </td>
 </tr>
@@ -215,9 +190,9 @@ DIR: /ai_systems
 
 ---
 
-<div align="center">
-
-## `[ EXECUTION LOOP ]`
+```
+$ python3 mission.py
+```
 
 ```python
 while True:
@@ -227,32 +202,27 @@ while True:
     improve()
 ```
 
-</div>
-
 ---
+
+```
+$ contact --list
+```
 
 <div align="center">
 
-## `[ ESTABLISH CONNECTION ]`
-
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E63946&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0A0A0A"/>
 </a>
 <a href="mailto:aakashlingam2006@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E63946&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=4ADE80&labelColor=0A0A0A"/>
 </a>
 <a href="https://github.com/Aaki18">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=E63946&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=4ADE80&labelColor=0A0A0A"/>
 </a>
-
-<br/><br/>
-
-```
->>> END_OF_FILE
->>> BUILT WITH AI + CLOUD MINDSET
->>> _RETRYING... [ SUCCESS ]
-```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,100:0A0A0A&height=100&section=footer" width="100%"/>
+```
+$ exit
+process finished with exit code 0
+```
