@@ -44,9 +44,7 @@
 
 ---
 
-```diff
-+ $ ls -la experience/
-```
+**`$ ls -la experience/`**
 
 <table align="center">
 <tr>
@@ -91,9 +89,7 @@
 
 ---
 
-```diff
-+ $ ls -la projects/
-```
+**`$ ls -la projects/`**
 
 <table align="center">
 <tr>
@@ -142,9 +138,9 @@
 <tr>
 <td align="center" width="50%" valign="top">
 
-```diff
-+ $ ./tech_stack.sh
-```
+**`$ ./tech_stack.sh`**
+
+<br/>
 
 **LANGUAGES**
 <br/>
@@ -165,11 +161,19 @@
 </td>
 <td align="center" width="50%" valign="top">
 
-```diff
-+ $ ./contribution_stats.sh
-```
+**`$ ./contribution_stats.sh`**
+
+<br/>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=CFCFCF&dates=808080"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/build-passing-4ADE80?style=flat-square&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/status-online-4ADE80?style=flat-square&labelColor=0A0A0A"/>
+<img src="https://komarev.com/ghpvc/?username=Aaki18&style=flat-square&color=4ADE80&label=profile+views&labelColor=0A0A0A"/>
+
+<br/><br/>
 
 </td>
 </tr>
@@ -177,17 +181,13 @@
 
 ---
 
-```diff
-+ $ ./now_playing.sh
-```
+**`$ ./now_playing.sh`**
 
 <img width="90%" src="matrix-rain.svg"/>
 
 ---
 
-```diff
-+ $ python3 mission.py
-```
+**`$ python3 mission.py`**
 
 ```python
 while True:
@@ -199,9 +199,7 @@ while True:
 
 ---
 
-```diff
-+ $ contact --list
-```
+**`$ contact --list`**
 
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0A0A0A"/>
@@ -215,9 +213,8 @@ while True:
 
 <br/><br/>
 
-```diff
-+ $ exit
-# process finished with exit code 0
-```
+**`$ exit`**
+
+> `process finished with exit code 0`
 
 </div>
