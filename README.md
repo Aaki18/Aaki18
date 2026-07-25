@@ -12,80 +12,30 @@
 <tr>
 <td align="center" width="50%" valign="top">
 
-```
-$ cat about.txt
+```diff
++ $ cat about.txt
 
-AI Engineer / Cloud Computing
-Enthusiast / Full Stack Developer
+# AI Engineer / Cloud Computing
+# Enthusiast / Full Stack Developer
 
-Building intelligent systems,
-scalable cloud platforms, and
-AI-driven automation solutions.
+# Building intelligent systems,
+# scalable cloud platforms, and
+# AI-driven automation solutions.
 ```
 
 </td>
 <td align="center" width="50%" valign="top">
 
-```
-$ cat learning.txt
+```diff
++ $ cat learning.txt
 
-> DevOps
-> CI/CD
-> Agentic AI
-> Cloud Architecture
+# > DevOps
+# > CI/CD
+# > Agentic AI
+# > Cloud Architecture
 
-$ echo $MISSION
-Ship production-ready AI systems
-```
-
-</td>
-</tr>
-</table>
-
----
-
-```
-$ ls -la experience/
-```
-
-<table align="center">
-<tr>
-<td align="center" width="33%" valign="top">
-
-```
-techzarinfo/
-------------
-role: React.js Intern
-
-- UI Development
-- Component Architecture
-- Responsive Design
-```
-
-</td>
-<td align="center" width="33%" valign="top">
-
-```
-internpe/
-------------
-role: AI/ML Intern
-
-- ML Models
-- Data Processing
-- Predictive Systems
-```
-
-</td>
-<td align="center" width="33%" valign="top">
-
-```
-divihn/
-------------
-role: ServiceNow AI Intern
-
-- Enterprise AI
-- Automation Systems
-- Workflow Design
++ $ echo $MISSION
+# Ship production-ready AI systems
 ```
 
 </td>
@@ -94,45 +44,92 @@ role: ServiceNow AI Intern
 
 ---
 
+```diff
++ $ ls -la experience/
 ```
-$ ls -la projects/
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+
+```diff
+! techzarinfo/
+# role: React.js Intern
+
++ UI Development
++ Component Architecture
++ Responsive Design
+```
+
+</td>
+<td align="center" width="33%" valign="top">
+
+```diff
+! internpe/
+# role: AI/ML Intern
+
++ ML Models
++ Data Processing
++ Predictive Systems
+```
+
+</td>
+<td align="center" width="33%" valign="top">
+
+```diff
+! divihn/
+# role: ServiceNow AI Intern
+
++ Enterprise AI
++ Automation Systems
++ Workflow Design
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+```diff
++ $ ls -la projects/
 ```
 
 <table align="center">
 <tr>
 <td align="center" valign="top" width="33%">
 
-```
-healthcare_ai/
---------------
-> Hospital 360 Platform
-> Diabetes Prediction
-> EV Battery Health Detection
-> E-Tongue Herb Detection
+```diff
+! healthcare_ai/
+
++ Hospital 360 Platform
++ Diabetes Prediction
++ EV Battery Health Detection
++ E-Tongue Herb Detection
 ```
 
 </td>
 <td align="center" valign="top" width="33%">
 
-```
-ml_prediction/
---------------
-> Dynamic Pricing System
-> Car Price Prediction
-> Stock Price Prediction
-> IPL Score Prediction
+```diff
+! ml_prediction/
+
++ Dynamic Pricing System
++ Car Price Prediction
++ Stock Price Prediction
++ IPL Score Prediction
 ```
 
 </td>
 <td align="center" valign="top" width="33%">
 
-```
-ai_systems/
---------------
-> Illegal Mining Detection
-> Face Recognition System
-> Crisis Orchestration Engine
-> AI Learning Tracker
+```diff
+! ai_systems/
+
++ Illegal Mining Detection
++ Face Recognition System
++ Crisis Orchestration Engine
++ AI Learning Tracker
 ```
 
 </td>
@@ -145,8 +142,8 @@ ai_systems/
 <tr>
 <td align="center" width="50%" valign="top">
 
-```
-$ ./tech_stack.sh
+```diff
++ $ ./tech_stack.sh
 ```
 
 **LANGUAGES**
@@ -168,8 +165,8 @@ $ ./tech_stack.sh
 </td>
 <td align="center" width="50%" valign="top">
 
-```
-$ ./contribution_stats.sh
+```diff
++ $ ./contribution_stats.sh
 ```
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=CFCFCF&dates=808080"/>
@@ -178,15 +175,21 @@ $ ./contribution_stats.sh
 </tr>
 </table>
 
-<br/>
+---
+
+```diff
++ $ ./now_playing.sh
+```
 
 <img width="90%" src="matrix-rain.svg"/>
 
 ---
 
+```diff
++ $ python3 mission.py
 ```
-$ python3 mission.py
 
+```python
 while True:
     learn()
     build()
@@ -196,8 +199,8 @@ while True:
 
 ---
 
-```
-$ contact --list
+```diff
++ $ contact --list
 ```
 
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
@@ -212,9 +215,9 @@ $ contact --list
 
 <br/><br/>
 
-```
-$ exit
-process finished with exit code 0
+```diff
++ $ exit
+# process finished with exit code 0
 ```
 
 </div>
