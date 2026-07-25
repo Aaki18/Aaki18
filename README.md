@@ -14,29 +14,25 @@
 
 **`$ cat about.txt`**
 
-```
-AI Engineer / Cloud Computing
-Enthusiast / Full Stack Developer
-
-Building intelligent systems,
-scalable cloud platforms, and
-AI-driven automation solutions.
-```
+> `AI Engineer / Cloud Computing`
+> `Enthusiast / Full Stack Developer`
+>
+> `Building intelligent systems,`
+> `scalable cloud platforms, and`
+> `AI-driven automation solutions.`
 
 </td>
 <td align="center" width="50%" valign="top">
 
 **`$ cat learning.txt`**
 
-```
-> DevOps
-> CI/CD
-> Agentic AI
-> Cloud Architecture
-
-$ echo $MISSION
-Ship production-ready AI systems
-```
+> `> DevOps`
+> `> CI/CD`
+> `> Agentic AI`
+> `> Cloud Architecture`
+>
+> `$ echo $MISSION`
+> `Ship production-ready AI systems`
 
 </td>
 </tr>
@@ -50,41 +46,35 @@ Ship production-ready AI systems
 <tr>
 <td align="center" width="33%" valign="top">
 
-```
-techzarinfo/
-------------
-role: React.js Intern
-
-- UI Development
-- Component Architecture
-- Responsive Design
-```
+> `techzarinfo/`
+> `------------`
+> `role: React.js Intern`
+>
+> `- UI Development`
+> `- Component Architecture`
+> `- Responsive Design`
 
 </td>
 <td align="center" width="33%" valign="top">
 
-```
-internpe/
-------------
-role: AI/ML Intern
-
-- ML Models
-- Data Processing
-- Predictive Systems
-```
+> `internpe/`
+> `------------`
+> `role: AI/ML Intern`
+>
+> `- ML Models`
+> `- Data Processing`
+> `- Predictive Systems`
 
 </td>
 <td align="center" width="33%" valign="top">
 
-```
-divihn/
-------------
-role: ServiceNow AI Intern
-
-- Enterprise AI
-- Automation Systems
-- Workflow Design
-```
+> `divihn/`
+> `------------`
+> `role: ServiceNow AI Intern`
+>
+> `- Enterprise AI`
+> `- Automation Systems`
+> `- Workflow Design`
 
 </td>
 </tr>
@@ -98,38 +88,32 @@ role: ServiceNow AI Intern
 <tr>
 <td align="center" valign="top" width="33%">
 
-```
-healthcare_ai/
---------------
-> Hospital 360 Platform
-> Diabetes Prediction
-> EV Battery Health Detection
-> E-Tongue Herb Detection
-```
+> `healthcare_ai/`
+> `--------------`
+> `> Hospital 360 Platform`
+> `> Diabetes Prediction`
+> `> EV Battery Health Detection`
+> `> E-Tongue Herb Detection`
 
 </td>
 <td align="center" valign="top" width="33%">
 
-```
-ml_prediction/
---------------
-> Dynamic Pricing System
-> Car Price Prediction
-> Stock Price Prediction
-> IPL Score Prediction
-```
+> `ml_prediction/`
+> `--------------`
+> `> Dynamic Pricing System`
+> `> Car Price Prediction`
+> `> Stock Price Prediction`
+> `> IPL Score Prediction`
 
 </td>
 <td align="center" valign="top" width="33%">
 
-```
-ai_systems/
---------------
-> Illegal Mining Detection
-> Face Recognition System
-> Crisis Orchestration Engine
-> AI Learning Tracker
-```
+> `ai_systems/`
+> `--------------`
+> `> Illegal Mining Detection`
+> `> Face Recognition System`
+> `> Crisis Orchestration Engine`
+> `> AI Learning Tracker`
 
 </td>
 </tr>
@@ -172,7 +156,7 @@ ai_systems/
 
 <br/>
 
-<img width="100%" src="skill-monitor.svg"/>
+<img width="100%" src="assets/skill-radar.svg"/>
 
 </td>
 </tr>
@@ -208,6 +192,8 @@ while True:
 
 <br/><br/>
 
-**`$ exit`** — process finished with exit code 0
+**`$ exit`**
+
+> `process finished with exit code 0`
 
 </div>
