@@ -44,14 +44,14 @@
 
 ---
 
-**`$ ls -la experience/`** &nbsp;·&nbsp; *(chronological)*
+**`$ ls -la experience/`**
 
 <table align="center">
 <tr>
-<td align="center" width="30%" valign="top">
+<td align="center" width="33%" valign="top">
 
 ```diff
-! 01_techzarinfo/
+! techzarinfo/
 
 # role: React.js Intern
 
@@ -61,17 +61,10 @@
 ```
 
 </td>
-<td align="center" width="6%" valign="middle">
-
-<br/><br/>
-
-**→**
-
-</td>
-<td align="center" width="30%" valign="top">
+<td align="center" width="33%" valign="top">
 
 ```diff
-! 02_internpe/
+! internpe/
 
 # role: AI/ML Intern
 
@@ -81,17 +74,10 @@
 ```
 
 </td>
-<td align="center" width="6%" valign="middle">
-
-<br/><br/>
-
-**→**
-
-</td>
-<td align="center" width="30%" valign="top">
+<td align="center" width="33%" valign="top">
 
 ```diff
-! 03_divihn/
+! divihn/
 
 # role: ServiceNow AI Intern
 
@@ -106,7 +92,7 @@
 
 ---
 
-**`$ ls -la projects/`** &nbsp;·&nbsp; *(by domain)*
+**`$ ls -la projects/`**
 
 <table align="center">
 <tr>
@@ -155,7 +141,7 @@
 <tr>
 <td align="center" width="50%" valign="top">
 
-**`$ ./tech_stack.sh`** &nbsp;·&nbsp; *(stack)*
+**`$ ./tech_stack.sh`**
 
 <br/>
 
@@ -178,7 +164,7 @@
 </td>
 <td align="center" width="50%" valign="top">
 
-**`$ ./contribution_stats.sh`** &nbsp;·&nbsp; *(activity)*
+**`$ ./contribution_stats.sh`**
 
 <br/>
 
@@ -196,13 +182,13 @@
 
 ---
 
-**`$ ./now_playing.sh`** &nbsp;·&nbsp; *(ambient)*
+**`$ ./now_playing.sh`**
 
 <img width="90%" src="matrix-rain.svg"/>
 
 ---
 
-**`$ python3 mission.py`** &nbsp;·&nbsp; *(core loop)*
+**`$ python3 mission.py`**
 
 ```python
 while True:
@@ -214,7 +200,7 @@ while True:
 
 ---
 
-**`$ contact --list`** &nbsp;·&nbsp; *(reach me)*
+**`$ contact --list`**
 
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0A0A0A"/>
