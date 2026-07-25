@@ -170,7 +170,9 @@ ai_systems/
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=CFCFCF&dates=808080"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaki18&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=4ADE80&text_color=CFCFCF&langs_count=6"/>
+<br/>
+
+<img width="100%" src="skill-monitor.svg"/>
 
 </td>
 </tr>
