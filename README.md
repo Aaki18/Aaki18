@@ -52,6 +52,7 @@
 
 ```diff
 ! techzarinfo/
+
 # role: React.js Intern
 
 + UI Development
@@ -64,6 +65,7 @@
 
 ```diff
 ! internpe/
+
 # role: AI/ML Intern
 
 + ML Models
@@ -76,6 +78,7 @@
 
 ```diff
 ! divihn/
+
 # role: ServiceNow AI Intern
 
 + Enterprise AI
@@ -169,9 +172,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/build-passing-4ADE80?style=flat-square&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/status-online-4ADE80?style=flat-square&labelColor=0A0A0A"/>
-<img src="https://komarev.com/ghpvc/?username=Aaki18&style=flat-square&color=4ADE80&label=profile+views&labelColor=0A0A0A"/>
+<img width="100%" src="activity-log.svg"/>
 
 <br/><br/>
 
