@@ -12,69 +12,31 @@
 <tr>
 <td align="center" width="50%" valign="top">
 
-**`$ cat about.txt`**
+```
+$ cat about.txt
 
-> `AI Engineer / Cloud Computing`
-> `Enthusiast / Full Stack Developer`
->
-> `Building intelligent systems,`
-> `scalable cloud platforms, and`
-> `AI-driven automation solutions.`
+AI Engineer / Cloud Computing
+Enthusiast / Full Stack Developer
+
+Building intelligent systems,
+scalable cloud platforms, and
+AI-driven automation solutions.
+```
 
 </td>
 <td align="center" width="50%" valign="top">
 
-**`$ cat learning.txt`**
+```
+$ cat learning.txt
 
-> `> DevOps`
-> `> CI/CD`
-> `> Agentic AI`
-> `> Cloud Architecture`
->
-> `$ echo $MISSION`
-> `Ship production-ready AI systems`
+> DevOps
+> CI/CD
+> Agentic AI
+> Cloud Architecture
 
-</td>
-</tr>
-</table>
-
----
-
-**`$ ls -la experience/`**
-
-<table align="center">
-<tr>
-<td align="center" width="33%" valign="top">
-
-> `techzarinfo/`
-> `------------`
-> `role: React.js Intern`
->
-> `- UI Development`
-> `- Component Architecture`
-> `- Responsive Design`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-> `internpe/`
-> `------------`
-> `role: AI/ML Intern`
->
-> `- ML Models`
-> `- Data Processing`
-> `- Predictive Systems`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-> `divihn/`
-> `------------`
-> `role: ServiceNow AI Intern`
->
-> `- Enterprise AI`
-> `- Automation Systems`
-> `- Workflow Design`
+$ echo $MISSION
+Ship production-ready AI systems
+```
 
 </td>
 </tr>
@@ -82,38 +44,96 @@
 
 ---
 
-**`$ ls -la projects/`**
+```
+$ ls -la experience/
+```
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+
+```
+techzarinfo/
+------------
+role: React.js Intern
+
+- UI Development
+- Component Architecture
+- Responsive Design
+```
+
+</td>
+<td align="center" width="33%" valign="top">
+
+```
+internpe/
+------------
+role: AI/ML Intern
+
+- ML Models
+- Data Processing
+- Predictive Systems
+```
+
+</td>
+<td align="center" width="33%" valign="top">
+
+```
+divihn/
+------------
+role: ServiceNow AI Intern
+
+- Enterprise AI
+- Automation Systems
+- Workflow Design
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+```
+$ ls -la projects/
+```
 
 <table align="center">
 <tr>
 <td align="center" valign="top" width="33%">
 
-> `healthcare_ai/`
-> `--------------`
-> `> Hospital 360 Platform`
-> `> Diabetes Prediction`
-> `> EV Battery Health Detection`
-> `> E-Tongue Herb Detection`
+```
+healthcare_ai/
+--------------
+> Hospital 360 Platform
+> Diabetes Prediction
+> EV Battery Health Detection
+> E-Tongue Herb Detection
+```
 
 </td>
 <td align="center" valign="top" width="33%">
 
-> `ml_prediction/`
-> `--------------`
-> `> Dynamic Pricing System`
-> `> Car Price Prediction`
-> `> Stock Price Prediction`
-> `> IPL Score Prediction`
+```
+ml_prediction/
+--------------
+> Dynamic Pricing System
+> Car Price Prediction
+> Stock Price Prediction
+> IPL Score Prediction
+```
 
 </td>
 <td align="center" valign="top" width="33%">
 
-> `ai_systems/`
-> `--------------`
-> `> Illegal Mining Detection`
-> `> Face Recognition System`
-> `> Crisis Orchestration Engine`
-> `> AI Learning Tracker`
+```
+ai_systems/
+--------------
+> Illegal Mining Detection
+> Face Recognition System
+> Crisis Orchestration Engine
+> AI Learning Tracker
+```
 
 </td>
 </tr>
@@ -125,9 +145,9 @@
 <tr>
 <td align="center" width="50%" valign="top">
 
-**`$ ./tech_stack.sh`**
-
-<br/>
+```
+$ ./tech_stack.sh
+```
 
 **LANGUAGES**
 <br/>
@@ -148,25 +168,25 @@
 </td>
 <td align="center" width="50%" valign="top">
 
-**`$ ./contribution_stats.sh`**
-
-<br/>
+```
+$ ./contribution_stats.sh
+```
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=CFCFCF&dates=808080"/>
-
-<br/>
-
-<img width="100%" src="assets/skill-radar.svg"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img width="90%" src="matrix-rain.svg"/>
+
 ---
 
-**`$ python3 mission.py`**
+```
+$ python3 mission.py
 
-```python
 while True:
     learn()
     build()
@@ -176,9 +196,9 @@ while True:
 
 ---
 
-**`$ contact --list`**
-
-<br/>
+```
+$ contact --list
+```
 
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0A0A0A"/>
@@ -192,8 +212,9 @@ while True:
 
 <br/><br/>
 
-**`$ exit`**
-
-> `process finished with exit code 0`
+```
+$ exit
+process finished with exit code 0
+```
 
 </div>
