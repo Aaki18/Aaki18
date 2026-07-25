@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="identity-banner.svg" width="100%"/>
+<img src="assets/identity-banner.svg" width="100%"/>
 
 <br/>
 
@@ -12,9 +12,7 @@
 <tr>
 <td align="center" width="50%" valign="top">
 
-```
-$ cat about.txt
-```
+**`$ cat about.txt`**
 
 ```
 AI Engineer / Cloud Computing
@@ -28,9 +26,7 @@ AI-driven automation solutions.
 </td>
 <td align="center" width="50%" valign="top">
 
-```
-$ cat learning.txt
-```
+**`$ cat learning.txt`**
 
 ```
 > DevOps
@@ -48,9 +44,7 @@ Ship production-ready AI systems
 
 ---
 
-```
-$ ls -la experience/
-```
+**`$ ls -la experience/`**
 
 <table align="center">
 <tr>
@@ -98,9 +92,7 @@ role: ServiceNow AI Intern
 
 ---
 
-```
-$ ls -la projects/
-```
+**`$ ls -la projects/`**
 
 <table align="center">
 <tr>
@@ -149,9 +141,9 @@ ai_systems/
 <tr>
 <td align="center" width="50%" valign="top">
 
-```
-$ ./tech_stack.sh
-```
+**`$ ./tech_stack.sh`**
+
+<br/>
 
 **LANGUAGES**
 <br/>
@@ -172,11 +164,13 @@ $ ./tech_stack.sh
 </td>
 <td align="center" width="50%" valign="top">
 
-```
-$ ./contribution_stats.sh
-```
+**`$ ./contribution_stats.sh`**
+
+<br/>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaki18&theme=dark&hide_border=true&background=0A0A0A&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=CFCFCF&dates=808080"/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaki18&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=4ADE80&text_color=CFCFCF&langs_count=6"/>
 
 </td>
 </tr>
@@ -184,9 +178,7 @@ $ ./contribution_stats.sh
 
 ---
 
-```
-$ python3 mission.py
-```
+**`$ python3 mission.py`**
 
 ```python
 while True:
@@ -198,9 +190,9 @@ while True:
 
 ---
 
-```
-$ contact --list
-```
+**`$ contact --list`**
+
+<br/>
 
 <a href="https://www.linkedin.com/in/aakash-lingam-m-9aba4b2a3">
 <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=4ADE80&labelColor=0A0A0A"/>
@@ -214,9 +206,6 @@ $ contact --list
 
 <br/><br/>
 
-```
-$ exit
-process finished with exit code 0
-```
+**`$ exit`** — process finished with exit code 0
 
 </div>
