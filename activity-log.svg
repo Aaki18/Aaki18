@@ -1,0 +1,50 @@
+<svg viewBox="0 0 400 210" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Courier New',monospace">
+
+  <defs>
+    <clipPath id="tickerClip"><rect x="0" y="0" width="400" height="210" rx="6"/></clipPath>
+    <clipPath id="bodyClip"><rect x="0" y="30" width="400" height="180"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#tickerClip)">
+    <rect width="400" height="210" fill="#0a0a0a"/>
+
+    <rect width="400" height="30" fill="#1a1a1a"/>
+    <circle cx="16" cy="15" r="5" fill="#ff5f56"/>
+    <circle cx="33" cy="15" r="5" fill="#ffbd2e"/>
+    <circle cx="50" cy="15" r="5" fill="#27c93f"/>
+    <text x="200" y="19" fill="#888" font-size="11" text-anchor="middle" letter-spacing="0.5">tail -f activity.log</text>
+    <line x1="0" y1="30" x2="400" y2="30" stroke="#262626"/>
+
+    <g clip-path="url(#bodyClip)" font-size="11.5">
+      <g>
+        <text x="14" y="52"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: added auth middleware</tspan></text>
+        <text x="14" y="74"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> fix: resolved race condition</tspan></text>
+        <text x="14" y="96"><tspan fill="#facc15">~</tspan><tspan fill="#cfcfcf"> docs: updated deployment guide</tspan></text>
+        <text x="14" y="118"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: dockerized ml pipeline</tspan></text>
+        <text x="14" y="140"><tspan fill="#60a5fa">i</tspan><tspan fill="#cfcfcf"> chore: bumped dependencies</tspan></text>
+        <text x="14" y="162"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: cloud autoscaling config</tspan></text>
+        <text x="14" y="184"><tspan fill="#facc15">~</tspan><tspan fill="#cfcfcf"> refactor: cleaned up api layer</tspan></text>
+        <text x="14" y="206"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: added retry logic</tspan></text>
+
+        <!-- duplicate set for seamless loop -->
+        <text x="14" y="228"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: added auth middleware</tspan></text>
+        <text x="14" y="250"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> fix: resolved race condition</tspan></text>
+        <text x="14" y="272"><tspan fill="#facc15">~</tspan><tspan fill="#cfcfcf"> docs: updated deployment guide</tspan></text>
+        <text x="14" y="294"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: dockerized ml pipeline</tspan></text>
+        <text x="14" y="316"><tspan fill="#60a5fa">i</tspan><tspan fill="#cfcfcf"> chore: bumped dependencies</tspan></text>
+        <text x="14" y="338"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: cloud autoscaling config</tspan></text>
+        <text x="14" y="360"><tspan fill="#facc15">~</tspan><tspan fill="#cfcfcf"> refactor: cleaned up api layer</tspan></text>
+        <text x="14" y="382"><tspan fill="#4ade80">+</tspan><tspan fill="#cfcfcf"> feat: added retry logic</tspan></text>
+
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -176" dur="9s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- fade masks top/bottom of body for smooth edges -->
+    <rect x="0" y="30" width="400" height="14" fill="#0a0a0a" opacity="0.9"/>
+    <rect x="0" y="196" width="400" height="14" fill="#0a0a0a" opacity="0.9"/>
+
+  </g>
+
+  <rect x="0.5" y="0.5" width="399" height="209" rx="6" fill="none" stroke="#262626"/>
+</svg>
