@@ -1,0 +1,88 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Courier New',monospace">
+
+  <defs>
+    <clipPath id="monClip"><rect x="0" y="0" width="600" height="300" rx="8"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#monClip)">
+    <rect width="600" height="300" fill="#0a0a0a"/>
+    <rect width="600" height="30" fill="#1a1a1a"/>
+    <circle cx="18" cy="15" r="5" fill="#ff5f56"/>
+    <circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+    <circle cx="54" cy="15" r="5" fill="#27c93f"/>
+    <text x="300" y="20" fill="#888" font-size="12" text-anchor="middle" letter-spacing="0.5">top - skill_monitor</text>
+    <line x1="0" y1="30" x2="600" y2="30" stroke="#262626"/>
+
+    <text x="20" y="52" fill="#666" font-size="11" letter-spacing="1">PID  PROCESS         USAGE                              PCT</text>
+    <line x1="20" y1="60" x2="580" y2="60" stroke="#1e1e1e"/>
+
+    <!-- row template: label, bar bg, bar fill (animated width), pct text -->
+
+    <g font-size="12">
+      <!-- Python -->
+      <text x="20" y="82" fill="#e6e6e6">1001</text>
+      <text x="70" y="82" fill="#4ade80">python</text>
+      <rect x="200" y="72" width="280" height="12" fill="#1a1a1a" stroke="#262626"/>
+      <rect x="200" y="72" width="0" height="12" fill="#4ade80">
+        <animate attributeName="width" values="0;246;246" keyTimes="0;0.4;1" dur="2.4s" fill="freeze" begin="0.1s"/>
+      </rect>
+      <text x="490" y="82" fill="#4ade80">88%</text>
+
+      <!-- JavaScript -->
+      <text x="20" y="107" fill="#e6e6e6">1002</text>
+      <text x="70" y="107" fill="#facc15">javascript</text>
+      <rect x="200" y="97" width="280" height="12" fill="#1a1a1a" stroke="#262626"/>
+      <rect x="200" y="97" width="0" height="12" fill="#facc15">
+        <animate attributeName="width" values="0;207;207" keyTimes="0;0.4;1" dur="2.4s" fill="freeze" begin="0.25s"/>
+      </rect>
+      <text x="490" y="107" fill="#facc15">74%</text>
+
+      <!-- React -->
+      <text x="20" y="132" fill="#e6e6e6">1003</text>
+      <text x="70" y="132" fill="#60a5fa">react</text>
+      <rect x="200" y="122" width="280" height="12" fill="#1a1a1a" stroke="#262626"/>
+      <rect x="200" y="122" width="0" height="12" fill="#60a5fa">
+        <animate attributeName="width" values="0;185;185" keyTimes="0;0.4;1" dur="2.4s" fill="freeze" begin="0.4s"/>
+      </rect>
+      <text x="490" y="132" fill="#60a5fa">66%</text>
+
+      <!-- Cloud/AWS -->
+      <text x="20" y="157" fill="#e6e6e6">1004</text>
+      <text x="70" y="157" fill="#f97316">cloud_aws</text>
+      <rect x="200" y="147" width="280" height="12" fill="#1a1a1a" stroke="#262626"/>
+      <rect x="200" y="147" width="0" height="12" fill="#f97316">
+        <animate attributeName="width" values="0;168;168" keyTimes="0;0.4;1" dur="2.4s" fill="freeze" begin="0.55s"/>
+      </rect>
+      <text x="490" y="157" fill="#f97316">60%</text>
+
+      <!-- Docker -->
+      <text x="20" y="182" fill="#e6e6e6">1005</text>
+      <text x="70" y="182" fill="#38bdf8">docker</text>
+      <rect x="200" y="172" width="280" height="12" fill="#1a1a1a" stroke="#262626"/>
+      <rect x="200" y="172" width="0" height="12" fill="#38bdf8">
+        <animate attributeName="width" values="0;140;140" keyTimes="0;0.4;1" dur="2.4s" fill="freeze" begin="0.7s"/>
+      </rect>
+      <text x="490" y="182" fill="#38bdf8">50%</text>
+
+      <!-- TensorFlow/PyTorch -->
+      <text x="20" y="207" fill="#e6e6e6">1006</text>
+      <text x="70" y="207" fill="#f472b6">ml_frameworks</text>
+      <rect x="200" y="197" width="280" height="12" fill="#1a1a1a" stroke="#262626"/>
+      <rect x="200" y="197" width="0" height="12" fill="#f472b6">
+        <animate attributeName="width" values="0;154;154" keyTimes="0;0.4;1" dur="2.4s" fill="freeze" begin="0.85s"/>
+      </rect>
+      <text x="490" y="207" fill="#f472b6">55%</text>
+    </g>
+
+    <line x1="20" y1="225" x2="580" y2="225" stroke="#1e1e1e"/>
+
+    <text x="20" y="248" fill="#666" font-size="11">Tasks: 6 total, 6 running</text>
+    <text x="20" y="266" fill="#666" font-size="11">Uptime: 3+ yrs</text>
+    <text x="560" y="266" fill="#4ade80" font-size="11" text-anchor="end">● live
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.3s" repeatCount="indefinite"/>
+    </text>
+
+  </g>
+
+  <rect x="0.5" y="0.5" width="599" height="299" rx="8" fill="none" stroke="#262626"/>
+</svg>
